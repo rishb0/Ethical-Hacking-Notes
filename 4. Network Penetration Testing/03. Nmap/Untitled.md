@@ -34,4 +34,6 @@
 ---
 
 ### 2. Transport Layer (Layer 4)
-	
+
+
+![[Pasted image 20250910140804.png]]
